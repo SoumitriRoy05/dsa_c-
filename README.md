@@ -4,5 +4,6 @@ This repository contains all the code components of C++ with Dsa and all the cod
 
 1. INTRODUCTION TO C++ LANGUAGE
 2. IF/ELSE, WHILE LOOP
-3.  
+3. PATTERNS
+4. BITWISE OPERATORS
    
