@@ -11,4 +11,5 @@ This repository contains all the code components of C++ with Dsa and all the cod
 7. PASS BY VALUE
 8. VARIABLE AND SCOPE
 9. BINARY SEARCH
-10. MINI CALCULATOR PROBLEM
+10. SORTING
+11. MINI CALCULATOR PROBLEM
